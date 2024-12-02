@@ -196,11 +196,11 @@ p.note { display: none; }
 <a href="20241202_123.JPG" target="_blank"><img src="20241202_123.JPG" alt="サンプル画像" width="900" /></a>
 
 
-
+<!--
 <h2><span class="yellow">子供達の水泳教室も開催されていました → 
 <a href="https://youtube.com/shorts/kVv7HzktC0A?feature=share" target="_blank">プール景観の動画</a>
 </span></h2>
-
+-->
 
 <br><br><br>
 
