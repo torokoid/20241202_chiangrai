@@ -213,7 +213,7 @@ p.note { display: none; }
 <a href="20241202_108.JPG" target="_blank"><img src="20241202_108.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">タイのショッピングモールには店内に車のディーラーがあります</span></h2>
 <a href="20241202_109.JPG" target="_blank"><img src="20241202_109.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="yellow">地下のフードコートでラーメンをいただきます<br>面は一人前を掬い上げて、緑のハサミでカット</span></h2>
+<h2><span class="yellow">地下のフードコートでラーメンをいただきます<br>麺は一人前を掬い上げて、緑のハサミでカット</span></h2>
 <a href="20241202_110.JPG" target="_blank"><img src="20241202_110.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241202_111.JPG" target="_blank"><img src="20241202_111.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241202_112.JPG" target="_blank"><img src="20241202_112.JPG" alt="サンプル画像" width="900" /></a>
