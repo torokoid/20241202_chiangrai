@@ -129,11 +129,12 @@ p.note { display: none; }
 
 <h2><span class="yellow">11月29日、披露宴の帰り道に、義兄の息子さんの食堂にお邪魔しました</span></h2>
 <a href="20241129_101.JPG" target="_blank"><img src="20241129_101.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="yellow">夫婦で仲良く焼き鳥を焼いています</span></h2>
+<h2><span class="yellow">夫婦で仲良く焼き鳥を焼きます</span></h2>
 <a href="20241129_103.JPG" target="_blank"><img src="20241129_103.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241129_104.JPG" target="_blank"><img src="20241129_104.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241129_102.JPG" target="_blank"><img src="20241129_102.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241129_105.JPG" target="_blank"><img src="20241129_105.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">BGMはYouTubeの再生</span></h2>
 <a href="20241129_106.JPG" target="_blank"><img src="20241129_106.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br>
@@ -178,7 +179,7 @@ p.note { display: none; }
 <a href="20241201_109.JPG" target="_blank"><img src="20241201_109.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">外の道路で突然の渋滞</span></h2>
 <a href="20241201_111.JPG" target="_blank"><img src="20241201_111.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="yellow">一般車が荷下ろししてて、後続車がハザード炊いて待ってました</span></h2>
+<h2><span class="yellow">道路塞いで一般車が荷下ろししてて、後続車がハザード炊いて待ってました</span></h2>
 <a href="20241201_112.JPG" target="_blank"><img src="20241201_112.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">街中のお医者さん、待合室は屋外！</span></h2>
 <a href="20241201_113.JPG" target="_blank"><img src="20241201_113.JPG" alt="サンプル画像" width="900" /></a>
@@ -192,7 +193,7 @@ p.note { display: none; }
 <h2><span class="yellow">12月2日はチェンライのお店を２軒梯子して本格的なお買い物</span></h2>
 <h2><span class="yellow">1件目は会員制のスーパー、日本のコストコに相当する店舗</span></h2>
 <a href="20241202_106.JPG" target="_blank"><img src="20241202_106.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="yellow">商品の棚は倉庫レベルc</span></h2>
+<h2><span class="yellow">商品の棚は倉庫レベル</span></h2>
 <a href="20241202_102.JPG" target="_blank"><img src="20241202_102.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241202_103.JPG" target="_blank"><img src="20241202_103.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241202_104.JPG" target="_blank"><img src="20241202_104.JPG" alt="サンプル画像" width="900" /></a>
