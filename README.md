@@ -160,6 +160,8 @@ p.note { display: none; }
 <a href="20241201_101.JPG" target="_blank"><img src="20241201_101.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">お昼はちょっと洒落たレストラン</span></h2>
 <a href="20241201_102.JPG" target="_blank"><img src="20241201_102.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">入り口にはプチ噴水のオブジェ</span></h2>
+<a href="https://youtube.com/shorts/7VbRSAmVrVg?si=Xgu54FqWXueZWRl4" target="_blank"><img src="20241201_01.png" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">店内の作りはこの辺りのお店としてはトップクラス</span></h2>
 <a href="20241201_104.JPG" target="_blank"><img src="20241201_104.JPG" alt="サンプル画像" width="900" /></a>
@@ -170,6 +172,8 @@ p.note { display: none; }
 <a href="20241201_107.JPG" target="_blank"><img src="20241201_107.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">水は日本と違って、有料で２０バーツ</span></h2>
 <a href="20241201_103.JPG" target="_blank"><img src="20241201_103.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">店内からお店の外の国道を眺めた様子</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bYl9sukKCpc?si=8VQklab6co3_tOJU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <h2><span class="yellow">お会計は２２８バーツ ≒ 1000円</span></h2>
 <a href="20241201_116.JPG" target="_blank"><img src="20241201_116.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">街中の雑貨屋さんでお買い物</span></h2>
@@ -236,6 +240,8 @@ p.note { display: none; }
 <h2><span class="yellow">夜は満点の星空でした</span></h2>
 <a href="20241202_123.JPG" target="_blank"><img src="20241202_123.JPG" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="yellow">チェンライ市内から北に向かって移動する様子</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LUC9Hn1xOxU?si=2xGqG9ewgXvd4LGd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <!--
 <h2><span class="yellow">子供達の水泳教室も開催されていました → 
