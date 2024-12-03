@@ -134,7 +134,7 @@ p.note { display: none; }
 <a href="20241129_104.JPG" target="_blank"><img src="20241129_104.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241129_102.JPG" target="_blank"><img src="20241129_102.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241129_105.JPG" target="_blank"><img src="20241129_105.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="yellow">BGMはYouTubeの再生</span></h2>
+<h2><span class="yellow">BGMはYouTubeの再生音を店内に大音量で流します</span></h2>
 <a href="20241129_106.JPG" target="_blank"><img src="20241129_106.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br>
