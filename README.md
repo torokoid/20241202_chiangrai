@@ -161,7 +161,7 @@ p.note { display: none; }
 <h2><span class="yellow">お昼はちょっと洒落たレストラン</span></h2>
 <a href="20241201_102.JPG" target="_blank"><img src="20241201_102.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">入り口にはプチ噴水のオブジェ、画像のクリックで動画再生します</span></h2>
-<a href="https://youtube.com/shorts/7VbRSAmVrVg?si=Xgu54FqWXueZWRl4" target="_blank"><img src="20241201_01.png" alt="サンプル画像" width="900" /></a>
+<a href="https://youtube.com/shorts/7VbRSAmVrVg?si=Xgu54FqWXueZWRl4" target="_blank"><img src="20241201_001.png" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">店内の作りはこの辺りのお店としてはトップクラス</span></h2>
 <a href="20241201_104.JPG" target="_blank"><img src="20241201_104.JPG" alt="サンプル画像" width="900" /></a>
