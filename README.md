@@ -129,70 +129,110 @@ p.note { display: none; }
 
 <h2><span class="yellow">11月29日、披露宴の帰り道に、義兄の息子さんの食堂にお邪魔しました</span></h2>
 <a href="20241129_101.JPG" target="_blank"><img src="20241129_101.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241129_102.JPG" target="_blank"><img src="20241129_102.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">夫婦で仲良く焼き鳥を焼いています</span></h2>
 <a href="20241129_103.JPG" target="_blank"><img src="20241129_103.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241129_104.JPG" target="_blank"><img src="20241129_104.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241129_102.JPG" target="_blank"><img src="20241129_102.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241129_105.JPG" target="_blank"><img src="20241129_105.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241129_106.JPG" target="_blank"><img src="20241129_106.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br>
 
 <h2><span class="yellow">11月30日はメーチャンの街中を散策</span></h2>
-<a href="20241130_101.JPG" target="_blank"><img src="20241130_101.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241130_102.JPG" target="_blank"><img src="20241130_102.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">広場には可愛らしい？５つ目のオブジェ！</span></h2>
+<a href="20241130_101.JPG" target="_blank"><img src="20241130_101.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241130_103.JPG" target="_blank"><img src="20241130_103.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">沿道のお花たちは、みんな綺麗！</span></h2>
 <a href="20241130_104.JPG" target="_blank"><img src="20241130_104.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241130_105.JPG" target="_blank"><img src="20241130_105.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241130_106.JPG" target="_blank"><img src="20241130_106.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">夕暮れ時に囀る小鳥</span></h2>
 <a href="20241130_107.JPG" target="_blank"><img src="20241130_107.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241130_108.JPG" target="_blank"><img src="20241130_108.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">夜には満点の星空</span></h2>
 <a href="20241130_109.JPG" target="_blank"><img src="20241130_109.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br>
 
-<h2><span class="yellow">12月2日の朝は蒸しバナナ、お昼は洒落たレストランで食事でした</span></h2>
+<h2><span class="yellow">12月2日の朝は蒸しバナナ、お芋みたいな食感になります</span></h2>
 <a href="20241201_101.JPG" target="_blank"><img src="20241201_101.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">お昼はちょっと洒落たレストラン</span></h2>
 <a href="20241201_102.JPG" target="_blank"><img src="20241201_102.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241201_103.JPG" target="_blank"><img src="20241201_103.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">店内の作りはこの辺りのお店としてはトップクラス</span></h2>
 <a href="20241201_104.JPG" target="_blank"><img src="20241201_104.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241201_115.JPG" target="_blank"><img src="20241201_115.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">チャーハンとカレーを注文</span></h2>
 <a href="20241201_105.JPG" target="_blank"><img src="20241201_105.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241201_106.JPG" target="_blank"><img src="20241201_106.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241201_107.JPG" target="_blank"><img src="20241201_107.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241201_108.JPG" target="_blank"><img src="20241201_108.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241201_109.JPG" target="_blank"><img src="20241201_109.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241201_110.JPG" target="_blank"><img src="20241201_110.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241201_111.JPG" target="_blank"><img src="20241201_111.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241201_112.JPG" target="_blank"><img src="20241201_112.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241201_113.JPG" target="_blank"><img src="20241201_113.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241201_114.JPG" target="_blank"><img src="20241201_114.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241201_115.JPG" target="_blank"><img src="20241201_115.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">水は日本と違って、有料で２０バーツ</span></h2>
+<a href="20241201_103.JPG" target="_blank"><img src="20241201_103.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">お会計は２２８バーツ ≒ 1000円</span></h2>
 <a href="20241201_116.JPG" target="_blank"><img src="20241201_116.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">街中の雑貨屋さんでお買い物</span></h2>
+<a href="20241201_108.JPG" target="_blank"><img src="20241201_108.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241201_110.JPG" target="_blank"><img src="20241201_110.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">店内の一角には仏壇が供えられています</span></h2>
+<a href="20241201_109.JPG" target="_blank"><img src="20241201_109.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">外の道路で突然の渋滞</span></h2>
+<a href="20241201_111.JPG" target="_blank"><img src="20241201_111.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">一般車が荷下ろししてて、後続車がハザード炊いて待ってました</span></h2>
+<a href="20241201_112.JPG" target="_blank"><img src="20241201_112.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">街中のお医者さん、待合室は屋外！</span></h2>
+<a href="20241201_113.JPG" target="_blank"><img src="20241201_113.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">この日も綺麗な夕焼けでした</span></h2>
+<a href="20241201_114.JPG" target="_blank"><img src="20241201_114.JPG" alt="サンプル画像" width="900" /></a>
+
+
 
 <br><br>
 
 <h2><span class="yellow">12月2日はチェンライのお店を２軒梯子して本格的なお買い物</span></h2>
-<a href="20241202_101.JPG" target="_blank"><img src="20241202_101.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">1件目は会員制のスーパー、日本のコストコに相当する店舗</span></h2>
+<a href="20241202_106.JPG" target="_blank"><img src="20241202_106.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">商品の棚は倉庫レベルc</span></h2>
 <a href="20241202_102.JPG" target="_blank"><img src="20241202_102.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241202_103.JPG" target="_blank"><img src="20241202_103.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241202_104.JPG" target="_blank"><img src="20241202_104.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241202_105.JPG" target="_blank"><img src="20241202_105.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241202_106.JPG" target="_blank"><img src="20241202_106.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">僧侶も買い出し中でした</span></h2>
+<a href="20241202_101.JPG" target="_blank"><img src="20241202_101.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">レジに並ぶ人たちの購入量が凄まじいレベル</span></h2>
 <a href="20241202_107.JPG" target="_blank"><img src="20241202_107.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">このお店には仏壇に加えて、王室崇拝のお供えもありました</span></h2>
+<a href="20241202_105.JPG" target="_blank"><img src="20241202_105.JPG" alt="サンプル画像" width="900" /></a>
+
+<br>
+<h2><span class="yellow">2軒目はこの辺りで最大のショッピングモール「CENTRAL」</span></h2>
 <a href="20241202_108.JPG" target="_blank"><img src="20241202_108.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">タイのショッピングモールには店内に車のディーラーがあります</span></h2>
 <a href="20241202_109.JPG" target="_blank"><img src="20241202_109.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">地下のフードコートでラーメンをいただきます<br>面は一人前を掬い上げて、緑のハサミでカット</span></h2>
 <a href="20241202_110.JPG" target="_blank"><img src="20241202_110.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241202_111.JPG" target="_blank"><img src="20241202_111.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241202_112.JPG" target="_blank"><img src="20241202_112.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">鶏肉ラーメンに好みのトッピングをかけていただきます</span></h2>
 <a href="20241202_113.JPG" target="_blank"><img src="20241202_113.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">下前まで全てセルフのシステム</span></h2>
 <a href="20241202_114.JPG" target="_blank"><img src="20241202_114.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">王室直営店がありました</span></h2>
 <a href="20241202_115.JPG" target="_blank"><img src="20241202_115.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">こちらは産地直送店</span></h2>
 <a href="20241202_116.JPG" target="_blank"><img src="20241202_116.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">店内の天井を飾る傘のオブジェ</span></h2>
 <a href="20241202_117.JPG" target="_blank"><img src="20241202_117.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">店外通路にも傘のオブジェ</span></h2>
 <a href="20241202_118.JPG" target="_blank"><img src="20241202_118.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">果物系のカップは定番商品でどこでも見ます</span></h2>
 <a href="20241202_119.JPG" target="_blank"><img src="20241202_119.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">店外には木にお面をつけた巨大オブジェ</span></h2>
 <a href="20241202_120.JPG" target="_blank"><img src="20241202_120.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">4人乗りスクーター、乗車順序は体格順か？</span></h2>
 <a href="20241202_121.JPG" target="_blank"><img src="20241202_121.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">街道沿いには、かなりの時代もののお家</span></h2>
 <a href="20241202_122.JPG" target="_blank"><img src="20241202_122.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">夜は満点の星空でした</span></h2>
 <a href="20241202_123.JPG" target="_blank"><img src="20241202_123.JPG" alt="サンプル画像" width="900" /></a>
 
 
@@ -235,7 +275,7 @@ p.note { display: none; }
 
 <!-- フッタ -->
 <footer>
-<p>Copyright 2024/12/02 S,Hada @ChiangRai</p>
+<p>Copyright 2024/12/03 S,Hada @ChiangRai</p>
 </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
