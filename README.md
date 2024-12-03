@@ -233,7 +233,7 @@ p.note { display: none; }
 <a href="20241202_119.JPG" target="_blank"><img src="20241202_119.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">店外には木にお面をつけた巨大オブジェ</span></h2>
 <a href="20241202_120.JPG" target="_blank"><img src="20241202_120.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="yellow">4人乗りスクーター、乗車順序は体格順か？</span></h2>
+<h2><span class="yellow">4人乗りスクーター、ハンドル操作は２番目の女の子<br>乗車順序は体格順か？</span></h2>
 <a href="20241202_121.JPG" target="_blank"><img src="20241202_121.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">街道沿いには、かなりの時代もののお家</span></h2>
 <a href="20241202_122.JPG" target="_blank"><img src="20241202_122.JPG" alt="サンプル画像" width="900" /></a>
